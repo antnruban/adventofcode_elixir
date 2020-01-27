@@ -33,6 +33,6 @@ defmodule Solution do
 end
 
 #######
-# IO.inspect(
-#   Solution.resolve
-# )
+IO.inspect(
+  Solution.resolve
+)
